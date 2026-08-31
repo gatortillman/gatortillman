@@ -1,7 +1,7 @@
 ![viewcounter](https://komarev.com/ghpvc/?username=gatortillman)
 
 <p align="center">
-  <a href="">rentry</a>
+  <a href="https://rentry.co/wittfarr">rentry</a>
 </p>‎
 ‎‎<p align="center">
 <img src="" alt=""/>
