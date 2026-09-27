@@ -1,10 +1,10 @@
-![viewcounter](https://komarev.com/ghpvc/?username=gatortillman&color=4d0303&style=flat-square&label=tillmans)
+![viewcounter](https://komarev.com/ghpvc/?username=gatortillman&color=f996be&style=flat-square&label=tillmans)
 <p align="center">
 </p>‎
 ‎‎<p align="center">
 
 </p> <p align="center"><a href=""></a>
-<img width="46" height="131" alt="image" src="https://github.com/user-attachments/assets/df73a188-2b7c-4baa-8b90-b4cb0bb5d1fd" />
+<img width="100" height="100" alt="image" src="https://gifcity.carrd.co/assets/images/gallery83/32ca7e6d.gif?v=3fc8f5cd" />
 
 </p>
 </p>
